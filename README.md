@@ -1,16 +1,27 @@
 <h1 align="center">Hey there! 👋 I'm Jack</h1>
 <p align="center">
-  <em>A Full-stack Web3 Developer crafting the next generation of DAOs.</em>
+  <em>A Full-stack Web3 Developer researching and crafting the next generation of DAOs.</em>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I'm a passionate **Full-stack Web3 Developer** focused on building the decentralized future.  
-My mission? Empowering communities and fostering innovation through **Decentralized Autonomous Organizations (DAOs)** on the blockchain.
+I'm a curious and driven **Full-stack Web3 Developer** committed to building the decentralized future.  
+My mission? Empowering communities and driving innovation through **Decentralized Autonomous Organizations (DAOs)** — not just by building them, but by **researching how they work**, scale, and govern.
 
-I build robust, scalable dApps using cutting-edge tools and technologies. Let’s shape the future of decentralization together!
+From technical implementation to governance dynamics, I’m deeply involved in understanding the systems that shape on-chain coordination.
+
+I build scalable, robust dApps with an eye for clean architecture and cutting-edge tooling. Let’s experiment, iterate, and shape Web3 together.
+
+---
+
+### 🔬 Current Research & Exploration
+
+- DAO governance frameworks & modular smart contract design  
+- Tokenomics that incentivize sustainable participation  
+- Decentralized identity and contribution reputation systems  
+- Real-world coordination limits in on-chain ecosystems  
 
 ---
 
@@ -41,9 +52,10 @@ I build robust, scalable dApps using cutting-edge tools and technologies. Let’
 
 ### 🌐 Let's Connect
 
-I'm always open to exciting **Web3 collaborations** and conversations about the future of decentralization. Reach out via any platform below:
+I'm always open to research discussions, DAO experiments, and Web3 collaborations.  
+Let’s explore the future of decentralization together:
 
-- 🐦 [X (Twitter)](https://x.com/metanodreamer)
+- 🐦 [X (Twitter)](https://x.com/metanodreamer)  
 - 🌌 [Wrapcast (Farcaster)](https://farcaster.xyz/metanode)
 
 ---
@@ -51,6 +63,6 @@ I'm always open to exciting **Web3 collaborations** and conversations about the 
 ### 🧠 TL;DR
 
 `Web3 Full-stack.` `TypeScript.` `Solidity.` `React.`  
-**Crafting the next generation of DAOs.**
+**Researching and building the next generation of DAOs.** 🚀
 
 ---
